@@ -1,4 +1,4 @@
-My Awesome Book
+Java程序员眼中的电商网站
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+大家好，我是一名Java程序员，从14年开始就开始从事电商网站的开发任务， 很高兴能够在 Gitbook写一本自己喜欢写的书， 这本书主要是从Java程序员的角度去看待怎样能够快速开发出 
